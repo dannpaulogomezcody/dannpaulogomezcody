@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to use GIT and GITHUB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me at dannpaulo_gomez@cody.inc
+- this is a test
 
 <!---
 dannpaulogomezcody/dannpaulogomezcody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
